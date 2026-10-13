@@ -1,5 +1,9 @@
 # Python Type-Driven Domain Modeling
 
+This reference is intentionally limited to Python representations of domain
+invariants. General typing style, tooling, testing, and documentation belong to
+other skills or project instructions.
+
 ## Goal
 
 Use Python's type system, immutable structures, runtime validation, and static analysis to make invalid states hard to represent. Python cannot provide Rust-level guarantees, but it should encode domain invariants structurally whenever practical.

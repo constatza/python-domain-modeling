@@ -1,0 +1,6 @@
+{
+  "name": "python-domain-modeling",
+  "version": "0.2.0",
+  "description": "Encode Python domain invariants with types, immutable structures, explicit states, and boundary validation.",
+  "author": { "name": "constatza" }
+}

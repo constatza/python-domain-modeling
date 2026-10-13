@@ -5,10 +5,10 @@
   },
   "plugins": [
     {
-      "name": "python-practices",
+      "name": "python-domain-modeling",
       "source": {
         "source": "local",
-        "path": "./plugins/python-practices"
+        "path": "./plugins/python-domain-modeling"
       },
       "policy": {
         "installation": "AVAILABLE",

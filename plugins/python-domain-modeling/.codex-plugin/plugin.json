@@ -1,0 +1,16 @@
+{
+  "name": "python-domain-modeling",
+  "version": "0.2.0",
+  "description": "Encode Python domain invariants with types, immutable structures, explicit states, and boundary validation.",
+  "author": { "name": "constatza" },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Python Domain Modeling",
+    "shortDescription": "Type-driven domain modeling for Python.",
+    "longDescription": "Python-specific patterns for making invalid domain states difficult to construct with unions, frozen dataclasses, semantic types, validated values, explicit transitions, exhaustive matching, and boundary conversion.",
+    "developerName": "constatza",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Use Python type-driven domain modeling when designing or refactoring domain states, invariants, lifecycle APIs, and boundary conversions."
+  }
+}
