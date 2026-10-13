@@ -1,4 +1,4 @@
-# agent-practices
+# python-domain-modeling
 
 A deliberately narrow, Python-specific plugin for type-driven domain modeling.
 It helps coding agents encode invariants with unions, state-specific frozen
@@ -13,14 +13,14 @@ Use established skills such as Superpowers and Ponytail for those concerns.
 
 Claude Code:
 ```bash
-claude plugin marketplace add constatza/agent-practices
-claude plugin install python-domain-modeling@agent-practices
+claude plugin marketplace add constatza/python-domain-modeling
+claude plugin install python-domain-modeling@python-domain-modeling
 ```
 
 Codex CLI:
 ```bash
-codex plugin marketplace add constatza/agent-practices
-codex plugin add python-domain-modeling@agent-practices
+codex plugin marketplace add constatza/python-domain-modeling
+codex plugin add python-domain-modeling@python-domain-modeling
 ```
 
 ## Maintaining

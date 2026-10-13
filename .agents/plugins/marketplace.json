@@ -1,7 +1,7 @@
 {
-  "name": "agent-practices",
+  "name": "python-domain-modeling",
   "interface": {
-    "displayName": "Agent Practices"
+    "displayName": "Python Domain Modeling"
   },
   "plugins": [
     {

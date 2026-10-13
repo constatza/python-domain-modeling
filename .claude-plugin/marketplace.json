@@ -1,5 +1,5 @@
 {
-  "name": "agent-practices",
+  "name": "python-domain-modeling",
   "description": "Python-specific type-driven domain modeling for coding agents.",
   "owner": { "name": "constatza" },
   "plugins": [
