@@ -1,12 +1,12 @@
 {
   "name": "python-domain-modeling",
-  "description": "Python-specific type-driven domain modeling for coding agents.",
+  "description": "Python domain modeling for valid states and explicit side-effect boundaries.",
   "owner": { "name": "constatza" },
   "plugins": [
     {
       "name": "python-domain-modeling",
       "source": "./plugins/python-domain-modeling",
-      "description": "Encode Python domain invariants with types, immutable structures, explicit states, and boundary validation.",
+      "description": "Model Python domain states and keep domain decisions predictable at side-effect boundaries.",
       "category": "workflow"
     }
   ]

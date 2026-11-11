@@ -1,9 +1,9 @@
 # python-domain-modeling
 
-A deliberately narrow, Python-specific plugin for type-driven domain modeling.
-It helps coding agents encode invariants with unions, state-specific frozen
-dataclasses, semantic types, validated value objects, explicit transitions,
-exhaustive matches, and boundary-to-domain conversion.
+A Python domain-modeling plugin for coding agents. It covers valid domain states
+and side-effect boundaries: encode invariants with types and explicit transitions,
+then keep domain decisions predictable when code reads time, randomness, external
+data, or mutable state.
 
 This repository does not duplicate general Python tooling, testing,
 documentation, planning, delegation, debugging, or code-review practices.
